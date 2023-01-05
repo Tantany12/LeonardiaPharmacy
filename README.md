@@ -1,2 +1,0 @@
-# LeonardiaPharmacy
-Medicine Delivery System
